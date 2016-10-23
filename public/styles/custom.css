@@ -5,3 +5,8 @@ h1 {
 footer p {
   font-family: 'Satisfy', cursive;
 }
+
+ol {
+  list-style-position:inside;
+  padding: 0;
+}
